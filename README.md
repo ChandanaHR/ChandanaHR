@@ -1,7 +1,7 @@
 <html>
   <head> <title> chandana hr </title> </head>
   <body>
-    hi there <hr>
+    hi there <hr color="red">
   </body>
 </html>
 Hello, I'm Chandana HR
