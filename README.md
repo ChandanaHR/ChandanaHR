@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/Never Give UP.png"/>
+<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/Never Ever Give UP.jpg"/>
 <h1 align="center">Hi 👋, I'm Chandana HR</h1>
 <h3 align="center">Tech Enthusiast and Proactive learner</h3>
 
