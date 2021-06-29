@@ -1,5 +1,5 @@
 <h1 align="center"><b>WELCOME TO MY GITHUB PROFILE</b></h1>
-<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy2.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy1.gif"/>
 <h1 align="left">Hi 👋, I'm Chandana HR</h1>
 <h3 align="left">Tech Enthusiast and Proactive learner</h3>
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me **chandu15230@gmail.com**
 
 - ⚡ Fun fact **laughing at serious situations**
-<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy1.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy3.gif"/>
 
 <h3 color="purple" align="left"><b>Connect with me:......</b></h3>
 <p align="left">
