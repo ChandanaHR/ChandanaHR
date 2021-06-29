@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanahr&theme=highcontrast" alt="chandanahr" /></p>
 
-<h1 align="center" color="blue"><i>Thanks for visiting my profile</i>   <b>Have a good day</b></h1>
+<img align="left" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/emoji6.png"/><h1 align="left" color="blue"><i>Thanks for visiting my profile</i>   <b>Have a good day</b></h1>
