@@ -1,6 +1,6 @@
-<img align="left" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/emoji4.png"/><h1 align="left"><b>WELCOME TO MY GITHUB PROFILE</b></h1>
+<img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy7.gif"/><h1 align="left"><b>WELCOME TO MY GITHUB PROFILE</b></h1>
 <img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy1.gif"/>
-<h1 align="left">Hi 👋, I'm Chandana HR</h1>
+<img align="left" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/emoji4.png"/><h1 align="left">Hi 👋, I'm Chandana HR</h1>
 <h3 align="left">Tech Enthusiast and Proactive learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanahr&label=Profile%20views&color=210eb4&style=plastic" alt="chandanahr" /> </p>
