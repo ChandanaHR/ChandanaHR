@@ -8,11 +8,8 @@
 
 
 - 🌱 I’m currently learning **Computer Vision/Machine Learning**
-
 - 💬 Ask me about **python or any tech related stuffs**
-
 - 📫 How to reach me **chandu15230@gmail.com**
-
 - ⚡ Fun fact **laughing at serious situations**
 <img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy3.gif"/>
 
