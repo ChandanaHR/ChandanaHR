@@ -15,7 +15,7 @@
 
 <h3 color="purple" align="left"><b>Connect with me:......</b></h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandana-hr-283a18196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandana-hr-283a18196" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandana-hr-283a18196" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-blue" alt="chandana-hr-283a18196" height="30" width="40" /></a>
 <a href="https://instagram.com/shettyponnu_chandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shettyponnu_chandu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chandana hr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandana hr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandu15230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandana hr" height="30" width="40" /></a>
