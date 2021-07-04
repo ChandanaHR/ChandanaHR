@@ -26,9 +26,9 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/-C        -000000" alt="c" width="100" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-CSS-000000" alt="css3" width="100" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-HTML5-000000" alt="html5" width="100" height="30"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/-Java-000000" alt="java" width="100" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-Java Script-000000" alt="javascript" width="100" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/-MySQL-000000" alt="mysql" width="100" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/-OpenCV-000000" alt="opencv" width="100" height="30"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/-Python-000000" alt="python" width="100" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/-Tensorflow-000000" alt="tensorflow" width="100" height="30"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanahr&show_icons=true&theme=synthwave&bg_color=180227&hide_border=true&locale=en&layout=compact" alt="chandanahr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanahr&show_icons=true&theme=chartreuse-dark&bg_color=180227&hide_border=true&locale=en&layout=compact" alt="chandanahr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanahr&show_icons=true&theme=radical&hide_border=true&locale=en" alt="chandanahr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanahr&show_icons=true&theme=chartreuse-dark&hide_border=true&locale=en" alt="chandanahr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanahr&theme=highcontrast" alt="chandanahr" /></p>
 
