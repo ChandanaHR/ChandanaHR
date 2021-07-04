@@ -1,5 +1,5 @@
 <img align="center" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy7.gif"/><h1 align="left"><b>WELCOME TO MY GITHUB PROFILE</b></h1>
-<img align="center" width="1000px" height="400px" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy1.gif"/>
+<img align="center" width="1000px" height="300px" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/giphy1.gif"/>
 <img align="left" src="https://raw.githubusercontent.com/ChandanaHR/ChandanaHR/main/emoji4.png"/><h1 align="left">Hi 👋, I'm Chandana HR</h1>
 <h3 align="left">Tech Enthusiast and Proactive learner</h3>
 
